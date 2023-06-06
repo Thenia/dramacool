@@ -2,6 +2,5 @@
 
 A script to make my life easier that hides non-subbed episodes on Dramacool.
 
-Install using Tampermomkey or other userscript manager extension.
+<a href="chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=f49ed742-da68-42e5-8d6f-1374ef02bac9">Install using Tampermomkey</a> or other userscript manager extension.
 
-https://github.com/Thenia/dramacool/blob/main/dramacool_subbed.user.js
